@@ -153,7 +153,7 @@ Request is converted into JSON and sent to your n8n webhook.
 
 
  ---
-
+'''
  # Initialise an empty local repo
 git clone --no-checkout https://github.com/shashiiii24/Streamlit-With-N8n-Automations.git
 cd Streamlit-With-N8n-Automations
@@ -166,7 +166,7 @@ git sparse-checkout set AI-Powered-Web-Chat-Bot
 
 # Checkout the files
 git checkout main   # or replace `main` with the branch name, if different
-
+'''
 
 
  
