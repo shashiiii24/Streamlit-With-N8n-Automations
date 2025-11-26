@@ -153,19 +153,26 @@ Request is converted into JSON and sent to your n8n webhook.
 
 
  ---
-# Initialise an empty local repo
+## Initialise an empty local repo
+```bash
 git clone --no-checkout https://github.com/shashiiii24/Streamlit-With-N8n-Automations.git
 cd Streamlit-With-N8n-Automations
+```
 
-# Turn on sparse checkout
+## Turn on sparse checkout
+```bash
 git sparse-checkout init --cone
+```
 
-# Specify the subfolder you want (AI-Powered-Web-Chat-Bot)
+## Specify the subfolder you want (AI-Powered-Web-Chat-Bot)
+```bash
 git sparse-checkout set AI-Powered-Web-Chat-Bot
+```
 
-# Checkout the files
-git checkout main   # or replace `main` with the branch name if different
-
+## Checkout the files
+```bash
+git checkout main
+```
 
 
  
