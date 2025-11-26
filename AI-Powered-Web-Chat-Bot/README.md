@@ -1,3 +1,7 @@
+<img width="2848" height="1504" alt="thumbnail" src="https://github.com/user-attachments/assets/6dd76a1a-6023-47ed-b9b0-12c4c0de38e8" />
+
+
+---
 # 🤖 ChatWithMe – AI Powered Chatbot  
 A modern, interactive AI chatbot built using **Streamlit**, **n8n automation**, and **Google Gemini AI**.  
 ChatWithMe delivers real-time responses, typing animations, feedback learning, and smooth conversational flow—designed to feel natural and intuitive.
