@@ -62,15 +62,16 @@ User Input ➜ Streamlit UI
 ## ▶️ How to Run Locally
 
 1. **Clone the repository**
-
-git clone https://github.com/your-username/your-repo.git
+```bash
+git clone https://AI-Powered-PPT-Generator
 cd your-repo
-
+```
+```bash
 pip install -r requirements.txt
------
-
+```
+```bash
 streamlit run app.py
-      ```bash
+```
 
 ---
 
@@ -118,6 +119,15 @@ This project was built to simplify presentation creation using AI automation.
 It speeds up content design, ensures professional formatting, and reduces manual work.
 
 ---
+## 🎥 Demo Video
+
+Click below to watch the full walkthrough & demo:
+
+[![Watch the video](https://img.youtube.com/vi/p7ov_E0SQaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=p7ov_E0SQaY)
+
+
+
+---
 # 🧑‍💻 Author
 
 ## SHASHI KIRAN TINKU
@@ -163,41 +173,3 @@ Just say the word 😎
 
 
 
-## 🎥 Demo Video
-
-Click below to watch the full walkthrough & demo:
-
-[![Watch the video](https://img.youtube.com/vi/p7ov_E0SQaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=p7ov_E0SQaY)
-
----
-
-## 📌 Architecture Overview
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🎥 Project Demo
-
-Click below to watch the full walkthrough of the AI-Powered PPT Generator:
-
-[![Watch the video](https://img.youtube.com/vi/p7ov_E0SQaY/maxresdefault.jpg)](https://www.youtube.com/watch?v=p7ov_E0SQaY)
