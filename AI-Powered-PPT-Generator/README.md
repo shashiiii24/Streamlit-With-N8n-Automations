@@ -62,8 +62,25 @@ User Input ➜ Streamlit UI
 ## ▶️ How to Run Locally
 
 1. **Clone the repository**
+## Initialise an empty local repo
 ```bash
- https://github.com/shashiiii24/Streamlit-With-N8n-Automations.git
+git clone --no-checkout https://github.com/shashiiii24/Streamlit-With-N8n-Automations.git
+cd Streamlit-With-N8n-Automations
+```
+
+## Turn on sparse checkout
+```bash
+git sparse-checkout init --cone
+```
+
+## Specify the subfolder you want (AI-Powered-Web-Chat-Bot)
+```bash
+git sparse-checkout set AI-Powered-PPT-Generator
+```
+
+## Checkout the files
+```bash
+git checkout main
 ```
 ```bash
 pip install -r requirements.txt
