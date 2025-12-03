@@ -63,8 +63,7 @@ User Input ➜ Streamlit UI
 
 1. **Clone the repository**
 ```bash
-git clone https://AI-Powered-PPT-Generator
-cd your-repo
+ https://github.com/shashiiii24/Streamlit-With-N8n-Automations.git
 ```
 ```bash
 pip install -r requirements.txt
